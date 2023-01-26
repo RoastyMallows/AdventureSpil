@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "Obj_editor_wall",
-  "spriteId": {
-    "name": "Sprite7",
-    "path": "sprites/Sprite7/Sprite7.yy",
-  },
+  "spriteId": null,
   "solid": true,
   "visible": true,
   "managed": true,

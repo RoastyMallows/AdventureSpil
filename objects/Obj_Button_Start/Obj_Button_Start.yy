@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "Obj_Button_Start",
-  "spriteId": {
-    "name": "Sprite6",
-    "path": "sprites/Sprite6/Sprite6.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,

@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "Obj_Drage",
-  "spriteId": {
-    "name": "Drage",
-    "path": "sprites/Drage/Drage.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
